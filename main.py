@@ -108,4 +108,4 @@ async def inspiration(ctx):
 
 keep_alive()
 
-client.run("ODQxNzU0MjQ3ODk3MTUzNTM3.YJrWuw.76sQ9ZQulo_7if6TEWhoaBA-fRw")
+client.run("BotTokenHere")
